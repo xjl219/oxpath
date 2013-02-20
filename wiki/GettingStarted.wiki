@@ -28,7 +28,8 @@ Add the following dependency to your pom.xml
     <version>1.0</version>
 </dependency>
 }}}
-Using the OXPath Maven Archetype
+
+==Using the OXPath Maven Archetype==
 
 
 OXPath provides an archetype to generate a new project, which contains working examples. 
