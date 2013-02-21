@@ -36,7 +36,7 @@ OXPath provides an archetype to generate a new project, which contains working e
 (replace the info with your data)
 
 {{{
-mvn archetype:generate -DarchetypeArtifactId=archeoxpath -DarchetypeGroupId=uk.ac.ox.cs.diadem  -DarchetypeVersion=1.11 -DarchetypeRepository=http://diadem.cs.ox.ac.uk:8081/nexus/content/repositories/oxpath-public
+mvn archetype:generate -DarchetypeArtifactId=archeoxpath -DarchetypeGroupId=uk.ac.ox.cs.diadem  -DarchetypeVersion=1.13 -DarchetypeRepository=http://diadem.cs.ox.ac.uk:8081/nexus/content/repositories/oxpath-public
 -DgroupId=org.your.company -DartifactId=project -Dpackage=org.your.company.project  -Dversion=1.0-SNAPSHOT 
 }}}
 
