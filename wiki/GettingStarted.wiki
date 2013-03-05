@@ -7,7 +7,12 @@
 Add the following server specifications to your .m2/settings.xml file
 
 {{{ 
-    <server>
+   <server>
+  	<id>diadem-nexus</id>
+  	<username>oxpath</username>
+  	<password>oxpath</password>
+   </server> 
+   <server>
   	<id>oxpath-releases</id>
   	<username>oxpath</username>
   	<password>oxpath</password>
