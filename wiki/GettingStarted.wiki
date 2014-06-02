@@ -1,6 +1,11 @@
 #summary Getting started with Maven
 #labels Featured,Maven,GettingStarted
 
+
+==Using the Command Line interface==
+
+From your console run _java -jar oxpath-2.0-cli.jar -help_ to show the usage  
+
 ==Using Maven==
 
 
@@ -59,3 +64,5 @@ OXPathDBExample.java
 	As above, but stores the extracted data in a DB (requires a DB to be configured)
 OXPathRDFExample.java
 	Extracts real estate listings from wwagency.com and builds RDF triples
+
+Notes: the extraction expressions may not work as the target website could have changed from the time the expression was tested. We will update these over time.
