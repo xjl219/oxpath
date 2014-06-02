@@ -30,7 +30,7 @@ Add the following dependency to your pom.xml
    <dependency>
       <groupId>uk.ac.ox.cs.diadem</groupId>
       <artifactId>oxpath</artifactId>
-    <version>1.1</version>
+    <version>2.0</version>
 </dependency>
 }}}
 
